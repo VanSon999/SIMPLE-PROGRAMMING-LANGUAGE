@@ -1,0 +1,13 @@
+procedure main();
+                var  art, ier, jrt:integer; 
+                begin 
+	                for ier := 1 to 10 do 
+                    begin 
+		                jrt := 9;
+	                end	
+	                for art := 0 to  5 = 3 do 
+                    begin 
+		                jrt := 6;
+	                end
+	                return ;
+                end

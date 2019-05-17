@@ -1,0 +1,11 @@
+
+            var xit: array [-6 .. 2] of integer;var ctx:real;var d:integer;
+            function main12(): integer;
+            begin 
+                return 1; 
+            end
+            function main(): real ;var ety:integer ; 
+            begin
+                return 1;
+            end
+		

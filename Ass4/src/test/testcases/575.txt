@@ -1,0 +1,8 @@
+
+            procedure main();
+            var x: integer; y: real; z : boolean; 
+            begin 
+                putFloatLn(-23-34);
+                putFloatLn(-3232323.23232665656);
+            end
+        

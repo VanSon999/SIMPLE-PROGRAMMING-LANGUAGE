@@ -1,0 +1,4 @@
+procedure main(main:integer);
+                begin
+                    main:=main+1;
+                end

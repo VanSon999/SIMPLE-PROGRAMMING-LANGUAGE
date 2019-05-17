@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    if 2 > 3 then a := 2; else a:= 1;
+                end

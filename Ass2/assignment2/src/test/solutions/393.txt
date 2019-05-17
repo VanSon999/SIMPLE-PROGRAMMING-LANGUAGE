@@ -1,0 +1,1 @@
+Program([VarDecl(Id(n),IntType),FuncDecl(Id(power2),[VarDecl(Id(n),IntType)],IntType,[VarDecl(Id(k),IntType)],[AssignStmt(Id(k),IntLiteral(0)),While(BinaryOp(=,BinaryOp(mod,Id(n),IntLiteral(2)),IntLiteral(0)),[AssignStmt(Id(k),CallExpr(Id(succ),[Id(k)])),AssignStmt(Id(n),BinaryOp(div,Id(n),IntLiteral(2)))]),AssignStmt(Id(power2),Id(k))])])

@@ -1,0 +1,1 @@
+Procedure mAiN(); begin end procedure foo(a: integer;c: integer); begin a:= b:= foo(1,3); end Var a: integer; c: Real;

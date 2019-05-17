@@ -1,0 +1,5 @@
+procedure proc_decl(a,b: integer;c,d: String);
+                var a,r: array [5 .. 6] of string;
+                    r,e: array [7 .. 8] of integer;
+                begin
+                end

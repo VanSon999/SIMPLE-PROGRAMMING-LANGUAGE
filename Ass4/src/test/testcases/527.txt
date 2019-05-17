@@ -1,0 +1,15 @@
+
+		procedure main();
+		begin
+			putIntLn(1+2);
+            putIntLn(1-2);
+            putIntLn(1*2);
+            putIntLn(1 div 2);
+            putIntLn(31 mod 4);
+            putFloatLn(1/2);
+            putBoolLn(1 > 2);
+            putBoolLn(1 < 2);
+            putBoolLn(1 <= 2);
+			return;
+		end
+		

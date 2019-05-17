@@ -1,0 +1,9 @@
+
+            procedure main();
+            begin
+                putIntLn(1 + 2);
+                putFloatLn(1 + 2.0);
+                putFloatLn(1.23 + -9.34);
+                putFloat(1.2376 + -9);
+            end
+        

@@ -1,0 +1,18 @@
+
+            procedure main();
+            var i: integer; 
+            begin
+                i := 15;
+                while (i < 25) do 
+                begin
+                    while (i < 20) do
+                    begin
+                        putIntLn(i);
+                        i := i + 1;
+                    end
+                    i := i + 1;
+                    putIntLn(i);
+                    break;
+                end
+            end
+        

@@ -1,0 +1,8 @@
+procedure proc_decl(a: integer;b: String; c: Real; d: BoolEan; e: array [5 .. 6] of BooLean);
+                var a: integer;
+                    b: String; 
+                    c: Real; 
+                    d: BoolEan; 
+                    e: array [5 .. 6] of BooLean;
+                begin
+                end

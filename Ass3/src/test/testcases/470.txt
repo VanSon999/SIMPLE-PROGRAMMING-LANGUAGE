@@ -1,0 +1,15 @@
+
+		function foo( c: integer) :real;	  	
+		begin  
+			return foo(1); 
+		end
+	   
+		procedure main( ) ;	  	
+		 var  c: integer;
+		begin  
+			if false then begin c:=3; end
+			
+			c:=1.4;
+		   
+		end
+		

@@ -1,0 +1,19 @@
+
+		procedure main( ) ;	  	
+		 var c: integer;
+		begin  
+		   
+		end
+		function main1( ):real ;	  	
+		 var c: integer;
+		begin  
+			c:=1.4;
+			while true do begin return 1;
+			main22(); end  return 1;
+		end
+		procedure main22() ;	  	
+		 var c: real;
+		begin  
+			c:=main1();
+		end 
+		

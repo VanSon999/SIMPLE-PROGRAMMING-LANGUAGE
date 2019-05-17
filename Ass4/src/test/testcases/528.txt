@@ -1,0 +1,11 @@
+
+		procedure main();
+		begin
+			putBoolLn(true and then false);
+            putBoolLn(true and then true);
+            putBoolLn(false and then true);
+            putBoolLn(false and then false);
+            putBoolLn(false and then 0 div 6 = 0);
+			return;
+		end
+		

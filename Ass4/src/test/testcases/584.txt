@@ -1,0 +1,13 @@
+
+        var ctx: integer;
+        procedure main(); 
+        var iy:integer;
+        begin 
+            iy:=1;
+            ctx:=1;
+            for iy:=1 to 9 do 
+            begin 
+                ctx:=ctx*2;
+            end 
+            putint(ctx);
+        end

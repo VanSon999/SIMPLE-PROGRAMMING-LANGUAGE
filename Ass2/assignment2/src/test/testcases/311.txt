@@ -1,0 +1,1 @@
+var x,r,t,r: arrAy [3 .. -8] of BoolEan;

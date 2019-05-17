@@ -1,0 +1,12 @@
+
+        procedure main();
+        var ie,jr,kt,cuo : integer;
+        begin
+            cuo := 0;
+            for ie := 9 downto 1 do
+                for jr := 8 downto 1 do
+                    for kt:= 7 downto 1 do
+                        cuo := cuo + 1;
+            putBool(cuo = 7*8*9);
+        end
+        

@@ -1,0 +1,6 @@
+
+            procedure main();
+            begin
+                putFloat(1*45+30/12);
+            end
+        

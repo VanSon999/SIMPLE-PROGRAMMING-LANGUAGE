@@ -1,0 +1,17 @@
+
+	   
+		function foo( c: integer) :real;	  	
+		begin  
+			c:=1.4;
+			return (1); 
+		end
+		procedure foo1( c: real) ;	  	
+		begin  
+			c:= foo(2); 
+		end
+		procedure main( ) ;	  	
+	   var c: integer;
+		begin  
+			return ; 
+		end
+		

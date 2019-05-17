@@ -1,0 +1,15 @@
+
+		procedure Main( ) ;	  	
+		 var c: integer;
+		begin  c:=1.4; end
+		
+		function Main1( c: integer) :real;	  	
+		begin   
+		   if true then 
+		   begin  
+			return 1;
+			while true do break;
+			end
+			return 1;
+		end
+		

@@ -1,0 +1,8 @@
+
+	
+		PROCEDURE Main();  var c:integer;     	
+		begin   
+		   if true then break;
+			
+		end
+		

@@ -1,0 +1,18 @@
+ 
+            var x: real;
+            procedure main();
+            begin
+                x := 15/3;
+                if x = 5 then 
+                begin
+                    with x: real; do
+                    begin
+                        x := 15;
+                        if x = 15 then
+                            putFloatLn(x);
+                    end
+                    if x = 5 then x := x*x*x-x;
+                    putFloatLn(x);   
+                end
+            end
+        

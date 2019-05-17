@@ -1,0 +1,6 @@
+procedure main();
+            begin
+                putLn(); // Ok
+                PUTINTLN(10);// Ok
+                break;// Error
+            end

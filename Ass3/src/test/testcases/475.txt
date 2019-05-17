@@ -1,0 +1,9 @@
+
+		procedure main( ) ;	  	
+		var c: integer;
+		begin  
+			
+		   if true then begin return;  c:=1.2; end
+		   
+		end
+		

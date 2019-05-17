@@ -1,0 +1,4 @@
+procedure proc_decl(a: integer);
+                var a: integer;
+                begin
+                end

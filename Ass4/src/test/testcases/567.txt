@@ -1,0 +1,11 @@
+
+        function chia():real;
+        begin
+            return 9/9;
+        end
+
+        procedure main();
+        begin
+            putFloatLn(100*chia()*100 - 1e4);
+        end
+        

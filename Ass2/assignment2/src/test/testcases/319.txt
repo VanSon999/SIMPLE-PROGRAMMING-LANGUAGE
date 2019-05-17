@@ -1,0 +1,3 @@
+var x: integer;
+                    var e: string;
+                    var w: arrAy [1 .. 2] of integer;

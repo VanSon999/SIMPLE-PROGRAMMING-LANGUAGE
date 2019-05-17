@@ -1,0 +1,5 @@
+procedure main();
+                begin
+                    with a:integer;b:array [1 .. 2] of boolean; do
+                        hello := may_con_quy;
+                end

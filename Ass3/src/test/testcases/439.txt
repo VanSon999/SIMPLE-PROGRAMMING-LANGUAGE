@@ -1,0 +1,7 @@
+
+            function foo2():real;
+            var ier:integer;
+            begin
+                with i:integer; do return 10; // Ok
+                
+            end

@@ -1,0 +1,6 @@
+
+            procedure main();
+            begin
+                putBool(not (-10 <> 2));
+            end
+        

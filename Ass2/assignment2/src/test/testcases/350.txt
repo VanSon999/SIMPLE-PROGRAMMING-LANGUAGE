@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := 4 and then 3;
+                end

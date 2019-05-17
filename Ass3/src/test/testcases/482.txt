@@ -1,0 +1,8 @@
+
+		procedure foo();begin return ; end
+		procedure main() ;
+		var putint:integer;
+		begin
+			putint(1); foo();
+		end
+		

@@ -1,0 +1,10 @@
+var a:integer;
+                var t:real;
+                var C:array[1 .. 10] of integer;
+                procedure main(); 
+                begin 
+                    t := C[1] + -1;
+                    t := t * (1.0 + 1);
+                    t := not (C[1] = 1);
+                    return ;
+                end

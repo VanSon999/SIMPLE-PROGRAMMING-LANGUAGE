@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(proc_decl),[VarDecl(Id(a),IntType),VarDecl(Id(b),StringType)],VoidType(),[VarDecl(Id(a),IntType),VarDecl(Id(b),StringType)],[])])

@@ -1,0 +1,7 @@
+
+            procedure main();
+            begin
+                putStringLn("PPL");
+                putString("2018");
+            end
+        

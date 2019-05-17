@@ -1,0 +1,12 @@
+function hello(a,b:real; c:integer): integer; 
+                var name: string; 
+                begin
+                end
+                procedure goodbye();
+                var name: string; 
+                begin
+                end
+                procedure main();
+                begin
+                    hello(a,b,c);
+                end

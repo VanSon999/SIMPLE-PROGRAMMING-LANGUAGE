@@ -1,0 +1,13 @@
+
+		var i : integer ;
+		function main1 (main  : integer): integer;
+		begin main:=main1(1);
+			 if 1=2 then if 1=2 then return 1;
+			 
+		end
+		var g : real ;
+		procedure main ();
+		var main  : integer;
+		begin
+		end
+		

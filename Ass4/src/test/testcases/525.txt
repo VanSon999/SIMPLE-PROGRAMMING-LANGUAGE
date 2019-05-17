@@ -1,0 +1,10 @@
+
+        var Num_f:real;
+        procedure main();
+        var Num_t:integer;
+        begin
+            Num_t := 12;
+            Num_f := Num_t;
+            putFloat(Num_f);
+        end
+        

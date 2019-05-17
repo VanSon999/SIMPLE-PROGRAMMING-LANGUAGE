@@ -1,0 +1,9 @@
+var  d:real;
+                var  e:boolean;
+                procedure to_(b, a : integer;  m:array[1 .. 3] of integer); 
+                begin 
+	                for a := 1 to 10 do 
+                    begin 
+	                end
+                end
+                

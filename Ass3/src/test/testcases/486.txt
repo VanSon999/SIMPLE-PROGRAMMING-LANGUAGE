@@ -1,0 +1,10 @@
+
+		var x:integer;
+		procedure foo();begin return ; end
+		procedure main() ;
+		var z: integer; c:integer;d:string;
+		begin
+		foo();
+			with a :integer ; do for i :=1 to 2 do a:=1;
+		end
+		

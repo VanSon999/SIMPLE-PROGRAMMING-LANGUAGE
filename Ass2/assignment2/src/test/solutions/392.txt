@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(change),[VarDecl(Id(y),IntType)],VoidType(),[],[AssignStmt(Id(y),IntLiteral(1)),AssignStmt(Id(x),IntLiteral(0)),CallStmt(Id(writeln),[Id(x)]),CallStmt(Id(change),[Id(x)]),CallStmt(Id(writeln),[Id(x)]),CallStmt(Id(change),[BinaryOp(+,IntLiteral(2),IntLiteral(5))])])])

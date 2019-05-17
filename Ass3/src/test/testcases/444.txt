@@ -1,0 +1,11 @@
+PROCEDURE Main( ); 
+            var ctc:integer;     	
+            begin   
+                while false do
+                begin
+                    for ctc:=1 to 9 do break;
+                    continue; 
+                end
+                break;
+            end
+            

@@ -1,0 +1,9 @@
+
+		var i:integer;
+		procedure foo();begin return ; end
+		procedure main() ;
+		var z: integer;c:integer;d:string;
+		begin
+			if c=d then foo();
+		end
+		

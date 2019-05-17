@@ -1,0 +1,18 @@
+procedurE foo (b : real);
+                var a : array [2 .. 3] of integer;
+                    b: string;
+                    e: real;
+                    f: boolean;
+                begin
+                    while (a=4) do
+                        for i:=4 to 5 do
+                            while(a=4) do
+                                for i:=4 to 6+(7+(4+3)) do
+                                    while(a=4) do
+                                        for i:=4 to a do
+                                            while(a=4) do
+                                                for i:=4 to 5 do
+                                                    while(a=4) do
+                                                        for i:=4 to l do
+                                                            a:=4;
+                End

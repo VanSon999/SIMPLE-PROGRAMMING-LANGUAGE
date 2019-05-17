@@ -1,0 +1,17 @@
+
+            procedure main();
+            var i,j,k: integer; 
+            begin
+                for i := 1 to 4 do
+                    for j:= i + 1 to 4 do 
+                        putIntLn(i*j);
+                for i := 1 to 10 do
+                    begin
+                        k := 0;
+                        if k = 0 then
+                            break;
+                        else 
+                            i := 5;
+                    end
+            end
+        

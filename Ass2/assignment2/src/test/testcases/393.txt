@@ -1,0 +1,12 @@
+var n : integer;
+                function power2(n:integer): integer;
+                var k : integer;
+                begin
+                    k := 0;
+                    while (n mod 2 = 0) do
+                    begin
+                        k := succ(k);
+                        n := n div 2;
+                    end
+                    power2 := k;
+                end

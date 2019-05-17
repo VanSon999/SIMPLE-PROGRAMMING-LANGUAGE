@@ -1,0 +1,12 @@
+ 
+            function foo1(): real;
+            begin 
+                return 10;
+            end
+
+            procedure main();
+            begin
+               putFloat(foo1());
+            end
+            var x : real;
+        

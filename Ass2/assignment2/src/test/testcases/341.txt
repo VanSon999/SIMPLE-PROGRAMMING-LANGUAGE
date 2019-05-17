@@ -1,0 +1,3 @@
+procedure proc_decl(a,b: integer);
+                begin
+                end

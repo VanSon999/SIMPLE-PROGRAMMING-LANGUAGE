@@ -1,0 +1,9 @@
+
+        
+		procedure main();
+		var ast ,byz ,ctx : integer; out:boolean;
+		begin
+              for byz:=1 downto 0 do        
+                 for ctx:=10 downto 0 do         
+                    putint(ctx);
+        end

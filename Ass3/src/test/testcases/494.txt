@@ -1,0 +1,16 @@
+
+		var i : integer ;
+		function main1 (main  : integer): integer;
+		begin main:=main1(1);
+			 if 1=2 then begin main:=1 ; return 1; end
+			 else  
+				with c: real ; 
+				do if 1=2 then return 1;
+			 
+		end
+		var g : real ;
+		procedure main ();
+		var main  : integer;
+		begin
+		end
+		

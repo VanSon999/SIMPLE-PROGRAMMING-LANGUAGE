@@ -1,0 +1,7 @@
+procedure proc_decl();
+                var a,b,c: real;
+                    fe: array [6 .. 7] of String;
+                    df: integer;
+                    le: booLean;
+                begin
+                end

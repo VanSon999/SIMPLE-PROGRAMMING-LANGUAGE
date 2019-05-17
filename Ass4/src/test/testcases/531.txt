@@ -1,0 +1,12 @@
+
+            procedure main();
+            var i,j,k: integer; 
+            begin
+                for i := 1 to 10 do
+                begin
+                    if ((i mod 2) = 0) then
+                        continue;
+                    putIntLn(i);
+                end  
+            end
+        

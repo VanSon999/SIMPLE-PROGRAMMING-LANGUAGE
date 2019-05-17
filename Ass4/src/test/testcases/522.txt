@@ -1,0 +1,15 @@
+
+             procedure main();
+             var i,s: integer;
+             begin
+                i := 1;
+                s := 0;
+                while (i <= 10) do
+                begin
+                    s := s + i;
+                    break;
+                    i := i + 1;
+                end
+                putInt(s);
+             end
+        

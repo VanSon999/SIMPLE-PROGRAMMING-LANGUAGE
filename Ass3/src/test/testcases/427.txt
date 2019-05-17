@@ -1,0 +1,3 @@
+var  d:real;
+                var  e:boolean;
+                var mAIn: integer;

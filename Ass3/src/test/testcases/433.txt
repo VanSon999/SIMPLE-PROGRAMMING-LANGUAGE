@@ -1,0 +1,18 @@
+var  d:real;
+                var  e:boolean;
+                procedure main(ast: integer); 
+                begin 
+	                if d = 1 then
+                    begin 
+	                end
+                end
+
+                procedure foo(b, a : integer);
+                begin
+                    a := b2();
+                end
+
+                function b2():integer;
+                begin
+                    return 10;
+                end

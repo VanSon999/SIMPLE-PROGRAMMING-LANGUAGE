@@ -1,0 +1,9 @@
+
+            procedure main();
+            begin
+                putIntLn(-2147483648);
+                putIntLn(-1000000000 + 65565654);
+                putFloatLn(-1000000000 / 65565654);
+                putIntLn(2147483647);   
+            end
+        

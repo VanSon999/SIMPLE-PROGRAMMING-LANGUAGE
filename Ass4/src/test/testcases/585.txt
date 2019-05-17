@@ -1,0 +1,15 @@
+
+        var ctx: integer;
+        procedure main(); 
+        var iy:integer;
+        begin 
+            iy:=1;
+            ctx:=1;
+            for iy:= 1 to 9 do 
+            begin 
+                while iy<>9 do begin iy:=9; 
+                with ast:integer; 
+                do putint(ctx); 
+                end
+            end 
+        end

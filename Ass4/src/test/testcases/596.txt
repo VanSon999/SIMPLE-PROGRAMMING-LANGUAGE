@@ -1,0 +1,9 @@
+
+        var ast,byz,ctx: real; out:boolean;
+        procedure main();
+		begin  
+            ctx:=400;
+            if ctx=400/1 then putstring("Hello");
+            else 
+                if ctx = 200 then return;
+        end

@@ -1,0 +1,29 @@
+ 
+            function foo1(): string;
+            begin 
+                return "Ass 4";
+            end
+
+            function foo2(): real;
+            begin 
+                return 12.0256;
+            end
+
+            function foo3(): integer;
+            begin 
+                return 2;
+            end
+
+            function foo4(): boolean;
+            begin 
+                return TRUE;
+            end
+
+            procedure main();
+            begin
+                putStringLn(foo1());
+                putFloatLn(foo2());
+                putIntLn(foo3());
+                putBoolLn(foo4());
+            end
+        

@@ -1,0 +1,10 @@
+
+		procedure main( ) ;	  	
+		 var  c: integer;
+		begin  
+			while false do c:=1;
+			
+			c:=1.4;
+			
+		end
+		

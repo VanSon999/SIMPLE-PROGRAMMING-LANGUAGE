@@ -1,0 +1,6 @@
+PROCEDURE Main();  
+                var art:integer;     	
+                begin   
+                    if true then break;   
+                end
+                

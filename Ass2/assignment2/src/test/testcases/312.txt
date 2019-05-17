@@ -1,0 +1,1 @@
+var x: arrAy [-2 .. -5] of String;

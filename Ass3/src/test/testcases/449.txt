@@ -1,0 +1,5 @@
+procedure main();
+            begin
+                with i:boolean; do i:=not not not not not not not not not not i; // Trying to catch ast error
+                break;
+            end

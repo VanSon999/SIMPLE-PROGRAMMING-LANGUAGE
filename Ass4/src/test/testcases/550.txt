@@ -1,0 +1,19 @@
+
+            procedure foo(x: integer; y: real; z: string; t: boolean);
+            begin 
+                putIntLn(x);
+                putFloatLn(y);
+                putStringLn(z);
+                putBoolLn(t);
+            end
+            var a: real; b: integer;
+            procedure main();
+            var c: string; d: boolean;
+            begin
+                a := 12.87;
+                b := 10;
+                c := "PPL 10";
+                d :=  10 = 10;
+                foo(b,a,c,d);     
+            end
+        

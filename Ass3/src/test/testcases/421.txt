@@ -1,0 +1,7 @@
+function foo():boolean; begin  return 9 > 1; end
+                function oo1(a:integer):boolean; begin  return a = 1; end
+                function oo2(art:integer):boolean; begin  return art; end
+                procedure main(); 
+                begin 
+                    return ;
+                end

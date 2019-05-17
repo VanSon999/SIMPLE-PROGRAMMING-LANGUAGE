@@ -1,0 +1,1 @@
+Procedure main(); begin end procedure foo(a: integer;b: integer); var a: integer; begin end

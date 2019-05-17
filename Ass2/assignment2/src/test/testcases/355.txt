@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := ((f + 2) * (3 - 4) / 45) and then 34;
+                end

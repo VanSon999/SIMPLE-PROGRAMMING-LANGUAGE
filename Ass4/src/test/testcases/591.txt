@@ -1,0 +1,15 @@
+
+        var irt:integer;
+        procedure main();
+        begin
+            for irt:= 0 to 10 do
+                if irt > 5 then break;
+            putIntLn(irt);
+
+            for irt:= 0 to 100 do
+            begin
+                if irt >= 10 then continue;
+                else putInt(irt);
+            end
+        end
+        

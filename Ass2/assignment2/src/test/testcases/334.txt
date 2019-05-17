@@ -1,0 +1,6 @@
+function final(r4: boolEan;a,b: integer;c: string;d,e: array [5 .. 6] of booLean): Array [-4 .. 6] of string;
+                var a,b,c: integer;
+                    e,f: booLean;
+                    e: array [1 .. 2] of string;
+                begin
+                end

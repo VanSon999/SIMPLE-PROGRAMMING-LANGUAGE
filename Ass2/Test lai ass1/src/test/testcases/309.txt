@@ -1,0 +1,7 @@
+ procedure foo(d:integer; i:real);
+        var d: real;
+        begin
+        for i := 3 to 10 do 
+        d := d +2;
+        break;
+        end 

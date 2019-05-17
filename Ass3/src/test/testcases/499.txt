@@ -1,0 +1,19 @@
+
+				procedure main();
+				var a,c:integer;
+				Begin
+					if a> 0 then
+					c:=1.4;
+					else begin
+						//a := a+1;
+						return;
+					   // a := a + 2;
+					end
+					if a = 1 then begin 
+						a :=a +1;
+						a :=a +3;
+						a :=a +2;
+					end
+				end
+								
+			

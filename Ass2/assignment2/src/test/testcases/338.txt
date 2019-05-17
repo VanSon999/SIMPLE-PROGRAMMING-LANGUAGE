@@ -1,0 +1,5 @@
+procedure hello_2();
+                var a,b,c: real;
+                    fe,cu,al: array [6 .. 7] of String;
+                begin
+                end

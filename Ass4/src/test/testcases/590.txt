@@ -1,0 +1,9 @@
+
+        var irt:integer;
+        procedure main();
+        begin
+            for irt:=-100 to 100 do
+                for irt:= 0 to 100 do begin end
+            putInt(irt);
+        end
+        

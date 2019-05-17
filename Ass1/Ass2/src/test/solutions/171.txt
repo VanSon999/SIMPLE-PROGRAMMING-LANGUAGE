@@ -1,0 +1,1 @@
+ArrAy,OF,InteGeR,And,_integer,<EOF>

@@ -1,0 +1,8 @@
+
+            procedure foo23(art: array[-9 .. 2] of integer;biy:integer);
+            begin
+                return;
+            end
+            procedure main(atr:integer);
+            begin 
+            end

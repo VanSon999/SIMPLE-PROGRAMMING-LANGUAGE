@@ -1,0 +1,17 @@
+
+            function faci(n: integer): integer;
+            begin
+                if (n = 0) or (n = 1) then
+                    return n;
+                else 
+                    return faci(n-1) + faci(n-2);
+            end
+
+            procedure main();
+            var x: integer; 
+            begin 
+                x := 28;
+                putIntLn(faci(x));
+                putIntLn(faci(7));
+            end
+        

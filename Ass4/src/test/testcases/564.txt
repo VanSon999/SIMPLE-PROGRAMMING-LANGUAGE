@@ -1,0 +1,13 @@
+
+        procedure main();
+        var a, b, tong:integer;
+        begin
+            tong := 0;
+            for a := 0 to 9 do
+            begin
+                if a mod 2 <> 0 then continue;
+                tong := tong + a;
+            end
+            putInt(tong);
+        end
+        

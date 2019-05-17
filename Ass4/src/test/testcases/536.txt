@@ -1,0 +1,16 @@
+ 
+            var x: real;
+            procedure main();
+            var a : integer;
+            begin
+                a := -2;
+                x := a*a;
+                if x >= a then 
+                    if x < 0 then
+                        x := x*x;
+                    else 
+                        a := a*a; 
+                putIntLn(a);
+                putFloatLn(x);
+            end
+        

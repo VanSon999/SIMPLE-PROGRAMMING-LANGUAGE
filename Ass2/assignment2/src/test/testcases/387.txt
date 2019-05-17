@@ -1,0 +1,12 @@
+procedurE foo (b : real) ;
+                var a : array [2 .. 3] of integer;
+                    b: string;
+                    e: real;
+                    f: boolean;
+                begin
+                    while(a=4) do
+                        with a,b,c:integer;b: array [1 .. 3] of StRing; do 
+                            while(a=4) do
+                                with a,b,c:integer;b: array [1 .. 3] of StRing; do
+                                    e:=4;
+                End

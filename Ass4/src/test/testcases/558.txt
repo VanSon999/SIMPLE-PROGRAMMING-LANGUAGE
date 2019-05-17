@@ -1,0 +1,30 @@
+
+            procedure foo(a: integer; b: real; c: boolean);
+            begin
+                putIntLn(a);
+                putFloatLn(b);
+                putBoolLn(c);
+                a := 10;
+                b := 10.0;
+                c := true;
+                putIntLn(a);
+                putFloatLn(b);
+                putBoolLn(c);
+            end
+            
+            var x: integer; y: real; z: boolean;
+
+            procedure main();
+            begin
+                x := 5;
+                y := 5.0;
+                z := false;
+                putIntLn(x);
+                putFloatLn(y);
+                putBoolLn(z);
+                foo(x,y,z);
+                putIntLn(x);
+                putFloatLn(y);
+                putBoolLn(z); 
+            end
+        

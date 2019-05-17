@@ -1,0 +1,10 @@
+
+        var ast,byz,ctx: real; out:boolean;
+		
+        procedure main();
+		begin  
+            ast := 1;
+            byz := 2;
+            ctx := 4; 
+            putfloat(ast/byz/ctx);
+        end

@@ -1,0 +1,16 @@
+
+		function foo(i:integer):integer; 
+		begin
+			with a:integer; do
+				if 2>1 then
+					return i;
+				else i:=i+2;
+			i:=i+1;
+		end
+		procedure main(); 
+		begin
+			while(a>=b) do
+			begin	
+					foo(3);
+			end
+		 end

@@ -1,0 +1,11 @@
+
+        procedure main();
+        var
+            i: integer;
+            r: real;
+            s: string;
+            b: boolean;
+        begin
+            for i:=1 to 10 do return 1;
+        end
+        

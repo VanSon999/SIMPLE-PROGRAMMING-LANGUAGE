@@ -1,0 +1,1 @@
+Type Mismatch In Statement: AssignStmt(Id(t),UnaryOp(not,BinaryOp(=,ArrayCell(Id(C),IntLiteral(1)),IntLiteral(1))))

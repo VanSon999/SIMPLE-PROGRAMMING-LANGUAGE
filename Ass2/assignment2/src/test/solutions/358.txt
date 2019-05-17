@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType(),[],[AssignStmt(Id(A),BinaryOp(+,StringLiteral(hello_string),StringLiteral(hello_string_2)))])])

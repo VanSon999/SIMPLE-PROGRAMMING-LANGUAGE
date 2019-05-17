@@ -1,0 +1,5 @@
+procedure main();
+            begin
+                with i:integer; do i:=-----------------------------i; // Trying to catch ast error
+                break;
+            end

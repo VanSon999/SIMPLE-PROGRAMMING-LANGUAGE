@@ -1,0 +1,10 @@
+function main(): string;
+                begin
+                    return a + 4;
+                end
+                procedure main();
+                begin
+                    for a:= we * 4 / 3 to f + 4 * 8 mod 3 do
+                        if (2 = 3) then
+                            return a / 2 and d + 3 > a or else 4;
+                end

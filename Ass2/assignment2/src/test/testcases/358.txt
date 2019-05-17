@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := "hello_string" + "hello_string_2";
+                end

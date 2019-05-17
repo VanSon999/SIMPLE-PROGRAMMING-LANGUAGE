@@ -1,0 +1,27 @@
+function foo():integer;
+                var a:integer;
+                begin  
+	                a := 4;
+	                if (a = 10) then begin 
+		                return 1; 
+	                end
+	                return 10;
+                end
+
+                procedure main(); 
+                var art:integer;
+                begin 
+	                art := 0;
+	                if (foo() > 1) then 
+                    begin 
+		                if(foo9() <= 100) then
+			                return ; 
+		                else
+			                return ;  
+	                end 
+	                else 
+                    begin 
+		                art := 96;
+		                return ;
+	                end
+                end

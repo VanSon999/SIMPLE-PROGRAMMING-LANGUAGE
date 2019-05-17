@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := hello() + hello(33);
+                end

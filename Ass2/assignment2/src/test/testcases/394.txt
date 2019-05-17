@@ -1,0 +1,12 @@
+function isPrime(n : integer) : boolean;
+                var
+                    soFarPrime : boolean;
+                    candidate : integer;
+                begin
+                    soFarPrime := TRUE;
+
+                    for candidate := 2 to (n - 1) do
+                        if (n mod candidate = 0) then
+                            soFarPrime := FALSE;
+                    isPrime := soFarPrime;
+                end

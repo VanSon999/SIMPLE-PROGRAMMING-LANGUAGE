@@ -1,0 +1,11 @@
+Procedure main(); 
+                begin 
+                end 
+                procedure foo(c: integer;b: integer); 
+                var a: integer; d:Real; 
+                begin 
+                    with temp , temp : integer; do
+                        begin
+                            return;
+                        end
+                end

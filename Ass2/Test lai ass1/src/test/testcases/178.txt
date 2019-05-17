@@ -1,0 +1,2 @@
+//This line is skipped
+ This line is not skipped {But this part is skipped} (*And also this part**)

@@ -1,0 +1,18 @@
+ 
+            var x: real;
+            procedure main();
+            var i: integer;
+            begin
+                x := 0;
+                i := 1;
+                if i = 2 then 
+                    putStringLn("No10");
+                else 
+                    if i = 1 then 
+                        if x = 0 then
+                            if 0.0 = 10 then
+                                putStringLn("No10");
+                            else 
+                                putFloatLn(i);
+            end
+        

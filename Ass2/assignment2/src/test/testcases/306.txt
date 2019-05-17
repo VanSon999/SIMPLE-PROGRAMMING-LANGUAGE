@@ -1,0 +1,1 @@
+var x,y: ArraY [1 .. 2] of reAl;

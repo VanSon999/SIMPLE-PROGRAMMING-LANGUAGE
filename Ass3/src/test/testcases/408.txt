@@ -1,0 +1,5 @@
+procedure main(); 
+	            begin
+	                if b > 5 then if b < 6 then b := 1; 
+	                else b := 3; else b := 6;
+	            end

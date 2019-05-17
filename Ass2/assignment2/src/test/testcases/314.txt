@@ -1,0 +1,1 @@
+var x,r,e,s: arrAy [-3 .. -3] of reaL;

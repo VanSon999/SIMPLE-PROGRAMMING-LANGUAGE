@@ -1,0 +1,3 @@
+function my_name(): ReaL;
+                begin
+                end

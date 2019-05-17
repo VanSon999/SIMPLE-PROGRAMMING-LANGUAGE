@@ -1,0 +1,19 @@
+
+				Function adsa ( A:array[0 .. 10] of REAL; N :Integer) : Boolean;
+				Var Flag : Boolean;
+				 i :Integer;
+				Begin
+				 Flag := True;
+				 i:= 0;
+				 while(i<N) do begin
+				  If(A[i] < A[i-1]) Then
+				   Flag :=False; { Cham dut kiem tra, ket qua qua trinh : khong tang }
+				  i:=i+1;
+				 end
+				 return Flag;
+				End
+				procedure main();
+				begin
+				return adsa();
+				end
+				

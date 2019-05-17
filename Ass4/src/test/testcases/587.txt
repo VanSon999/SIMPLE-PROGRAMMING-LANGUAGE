@@ -1,0 +1,12 @@
+
+        procedure main(); 
+        var iat,jr:integer;
+        begin 
+            iat:=7; 
+            jr:=2;
+            putfloatln(9/3.0);
+            putfloatln(9.0/3.0);
+            putfloatln(9.0/3);
+            putfloatln(6/3+ 1.5/3);
+            putfloatln(iat /(jr+5));
+        end

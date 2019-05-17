@@ -1,0 +1,5 @@
+procedure proc_decl(a: integer;b: String);
+                var a: integer;
+                    b: String;
+                begin
+                end

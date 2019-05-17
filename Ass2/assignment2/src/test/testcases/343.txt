@@ -1,0 +1,3 @@
+procedure AST(a: integer;b,c: String;d: arraY[4 .. 5] of integer);
+                begin
+                end

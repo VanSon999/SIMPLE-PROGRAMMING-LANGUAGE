@@ -1,0 +1,11 @@
+
+        var Num_f:real;
+        procedure main();
+        var isT, isTrue:boolean;
+        begin
+            isT := false;
+            isTrue := true;
+            isT := isTrue;
+            putBool(isT);
+        end
+        

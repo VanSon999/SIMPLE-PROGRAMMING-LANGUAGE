@@ -1,0 +1,16 @@
+
+            procedure main(i:integer);
+            begin
+                with ier:real; do ier:=foo3();
+            end
+            function foo3():real;
+            var itr:integer;
+            begin
+                for itr:=1 to itr do 
+                    begin
+                        for itr:=1 to itr do
+                            break;
+                        break;
+                    end
+                    return 0;
+            end

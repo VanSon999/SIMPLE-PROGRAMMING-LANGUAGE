@@ -1,0 +1,17 @@
+
+            procedure main();
+            var x: integer; 
+            begin 
+                putSTRING("PPL \n 2018");
+                putLN();
+                putSTRINGLn("PPL \n 2018");
+                putBOOL(true);
+                putBoolLN(false);
+                putFloat(45);
+                putFloat(45.6);
+                putFloatLn(45);
+                putFloatLN(45.25);
+                putInt(89);
+                putINTLN(343);  
+            end
+        

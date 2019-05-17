@@ -1,0 +1,5 @@
+function main_2(): arraY [-9 .. 7] of integer;
+                var hello,gelly: integer;
+                    bye,r4: strIng;
+                begin
+                end

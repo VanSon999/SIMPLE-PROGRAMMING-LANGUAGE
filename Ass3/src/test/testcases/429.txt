@@ -1,0 +1,12 @@
+var  d:real;
+                var  e:boolean;
+                procedure main(); 
+                begin 
+	                for a := 1 to 10 do 
+                    begin 
+	                end
+                end
+                procedure foo(b, a : integer);
+                begin
+                    b := a;
+                end

@@ -1,0 +1,20 @@
+
+            procedure main();
+            begin
+                x1 := y1 := z1 := 12 > 5 and then 3 >= 2;
+                putBoolLn(x1);
+                putBoolLn(y1);
+                putBoolLn(z1);
+                x2 := y2 := z2 := 15 + 25 MOD 5 + 12 * 5 mod 5 + 15 div 10; 
+                putIntLn(x2);
+                putIntLn(y2);
+                putIntLn(z2);
+                x3 := y3 := z3 := 30 / 15;
+                putFloatLn(x3);
+                putFloatLn(y3);
+                putFloatLn(z3);
+            end
+            var x1,y1,z1: boolean;
+            var x2,y2,z2: integer;
+            var x3,y3,z3: real;
+        

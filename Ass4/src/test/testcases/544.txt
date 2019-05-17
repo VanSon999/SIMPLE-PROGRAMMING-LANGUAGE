@@ -1,0 +1,19 @@
+ 
+            function foo1(): real;
+            begin 
+                reTurn 10;
+            end
+
+            procedure foo();
+            begin 
+                putIntLn(20);
+                REturn;
+            end
+
+            procedure main();
+            begin
+               FOo();
+               putFloat(foo1());
+            end
+            var x : real;
+        

@@ -1,0 +1,8 @@
+var  d:real;
+                var  e:boolean;
+                procedure main(); 
+                begin 
+	                for main := 1 to 10 do 
+                    begin 
+	                end
+                end

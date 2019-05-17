@@ -1,0 +1,15 @@
+
+				Function kt (A:real;  N:Integer; k:Integer):Boolean;
+				Var flag :boolean;
+				i :Integer;
+				Begin
+				 for i:=1 to N do
+					 if(A <> A + k) then
+					  flag:=false;	 // Cham dut, ket qua: khong phai
+				 return flag; {Ket qua kiem tra la mang cap so cong}
+				End
+				procedure main();
+				begin
+				return kt();
+				end
+				

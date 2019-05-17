@@ -1,0 +1,6 @@
+
+            procedure main();
+            begin
+                putInt(100 div 3 div 2);
+            end
+        

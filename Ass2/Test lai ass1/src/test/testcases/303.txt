@@ -1,0 +1,5 @@
+procedure main(a:INTEGER;b:REAL);
+		begin
+		end
+		procedure foo();
+		begin

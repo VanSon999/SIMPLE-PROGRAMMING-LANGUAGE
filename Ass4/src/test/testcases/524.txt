@@ -1,0 +1,9 @@
+
+        var ast, byz:integer;
+        procedure main();
+        var is_:boolean;
+        begin
+            is_ := false;
+            putBool(is_);
+        end
+        

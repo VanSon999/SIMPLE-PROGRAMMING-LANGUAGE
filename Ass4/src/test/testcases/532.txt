@@ -1,0 +1,28 @@
+
+            function foo(a,b,c: integer): integer;
+            begin
+                putIntLn(a);
+                putIntLn(b);
+                putIntLn(c);
+                a := a * 2;
+                b := b * 2;
+                c := c * 2;
+                putIntLn(a);
+                putIntLn(b);
+                putIntLn(c);
+                return 1;
+            end
+
+            var a,b,c,z: integer;
+
+            procedure main();
+            begin
+                a := 1;
+                b := 2;
+                c := 3;
+                z := foo(a,b,c);
+                putIntLn(a);
+                putIntLn(b);
+                putIntLn(c);
+            end
+        

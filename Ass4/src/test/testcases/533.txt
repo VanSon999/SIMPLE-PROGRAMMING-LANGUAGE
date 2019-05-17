@@ -1,0 +1,16 @@
+
+            function fact(a: integer): integer;
+            begin
+                if (a = 1) or (a = 0) then
+                    return 1;
+                else 
+                    return a * fact(a-1);
+            end
+            var a: integer;
+
+            procedure main();
+            begin
+                a := 5;
+                putIntLn(fact(a));
+            end
+        

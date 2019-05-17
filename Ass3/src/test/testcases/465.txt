@@ -1,0 +1,12 @@
+
+		PROCEDURE Main( );   var c:integer;    	
+		begin   
+		   if true then 
+		   begin  
+			
+			while true do break;
+			break; 
+		   end
+			
+		end
+		

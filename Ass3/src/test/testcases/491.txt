@@ -1,0 +1,27 @@
+
+		var i : integer ;
+		function f (): integer ;
+		begin
+			return 200;
+		end
+
+		procedure main ();
+		var main : integer ;
+		begin
+			main := f ();
+			putIntLn(main );
+			with
+			i : integer ;
+			main : integer ;
+			f : integer ;
+			do 
+			begin
+				main := f := i := 1;
+				putIntLn( i );
+				getIntLn(main );
+				putIntLn( f );
+			end
+		  
+		end
+		var g : real ;
+		

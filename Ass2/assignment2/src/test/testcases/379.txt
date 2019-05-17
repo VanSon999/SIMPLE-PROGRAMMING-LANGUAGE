@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    return hello >= 3 + 4;
+                end

@@ -1,0 +1,1 @@
+(RET >= trc) = (ec MOD tr) <= hd

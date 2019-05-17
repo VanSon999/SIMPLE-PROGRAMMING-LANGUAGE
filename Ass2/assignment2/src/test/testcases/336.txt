@@ -1,0 +1,4 @@
+procedure hello();
+                var a: real;
+                begin
+                end

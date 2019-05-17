@@ -1,0 +1,8 @@
+
+				procedure main();
+				var a:integer;
+				 abcd : array[1 .. 100] of integer;
+				Begin
+					abcd[abcd[a]]:=a;
+					return abcd;
+				end

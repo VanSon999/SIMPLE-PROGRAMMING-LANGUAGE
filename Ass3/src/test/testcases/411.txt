@@ -1,0 +1,6 @@
+var se,tr,as : integer ;
+                var as: integer;
+                procedure main(); 
+                begin
+	                return;
+                end

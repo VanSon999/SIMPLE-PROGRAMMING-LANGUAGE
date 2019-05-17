@@ -1,0 +1,4 @@
+procedure main(); 
+                begin
+                    for a:=1 to 2 do a:=3;
+                end

@@ -1,0 +1,17 @@
+procedure foo();
+                var x, y: integer;
+                begin
+                    x := y*12 div 100 mod 10;
+                    write("Please type the first char: ");
+                    readln(c1);
+                    write("Please type the second one: ");
+                    readln(c2);
+                    if (upcase(c1)=lowercase(c1 div 12)) then
+                        writeln("The first char is not a letter");
+                    else if (upcase(c2)=lowercase(c2)) then
+                        writeln("The second char is not a letter");
+                    else if (upcase(c1)>upcase(c2)) then
+                        writeln("The first letter is [",c2,"] while the second is [",c1,"].");
+                    else
+                        writeln("The first letter is [,c1,] while the second is [",c2,"].");
+                end

@@ -1,0 +1,10 @@
+ 
+            var x,y,z: integer;
+            procedure main();
+            begin
+                if (x = 0) or (x = 1) then 
+                    putIntLn(1);
+                else 
+                    putIntLn(2);
+            end
+        

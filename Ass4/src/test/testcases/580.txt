@@ -1,0 +1,23 @@
+
+        function too(n:integer):boolean;
+        var at,bz,iy:integer;
+        begin  
+            begin 
+                begin 
+                end 
+                begin 
+                    begin 
+                        begin 
+                            return true; 
+                        end 
+                    end 
+                end 
+            end
+        end
+
+        procedure main(); 
+        var a:integer;
+        begin 
+            putbool(too(1));
+        end
+        

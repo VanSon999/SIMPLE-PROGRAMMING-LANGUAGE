@@ -1,0 +1,8 @@
+
+		procedure main();
+		var ast ,byz: integer;
+		begin
+			for ast:=10 downto 1 do
+			if ast < 2 then continue;
+			else putint(ast);
+        end

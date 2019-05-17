@@ -1,0 +1,19 @@
+
+             procedure main();
+             begin
+                 putBool(1.23 <> 1.23);
+                 putBool(1.23 <> 2.1);
+                 putBool(1.23 < 2.19);
+                 putBool(1.23 < 0.2);
+                 putBool(1.23 > 2.11);
+                 putBool(1.23 > (-0.1));
+                 putBool(1.23 = 2.12);
+                 putBool(1.23 = (1 + 0.23));
+                 putBool(1.23 >= 2.1);
+                 putBool(1.23 >= 1);
+                 putBool(1.23 >= 1.23);
+                 putBool(1.23 <= 2.1);
+                 putBool(1.23 <= 0.12);
+                 putBool(1.23 <= 1.23);
+             end
+        

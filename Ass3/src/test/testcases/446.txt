@@ -1,0 +1,14 @@
+
+            procedure main();
+            var art:array[ 1 .. 99 ] of integer;
+            begin
+                with ity:real; do ity:=foo1();
+            end
+
+            function foo1():real;
+            var iy:integer;
+            begin
+                for iy:=1 to 10 do break; break;
+                
+            end
+            

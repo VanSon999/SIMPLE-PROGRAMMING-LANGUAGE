@@ -1,0 +1,13 @@
+procedure main();
+            begin
+                with i:real; do i:=foo();
+            end
+            function foo():real;
+            var i:integer;
+            begin
+                for i:=1 to i do 
+                    for i:=1 to i do
+                        break;
+                break;
+                return 0;
+            end

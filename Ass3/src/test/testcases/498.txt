@@ -1,0 +1,19 @@
+
+				function foo(): array [1 .. 2] of real;
+			   var a,x:REAl;
+					b:array [1 .. 2] of real;
+				begin
+					return b;
+				end
+				procedure main();
+				var a,x:REAl;
+					b:array [1 .. 2] of real;
+					c:integer;
+
+				Begin
+					a := b[10] := foo ()[3] := x := 1 ;
+				   
+					c := 2/2;
+					return ;
+				end
+				

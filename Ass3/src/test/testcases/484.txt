@@ -1,0 +1,9 @@
+
+		var x:integer;
+		procedure foo();begin return ; end
+		procedure main() ;
+		var z: integer; c:integer;
+		begin
+			for i:=1 to 2 do foo();
+		end
+		

@@ -1,0 +1,9 @@
+
+		procedure main() ;	  	
+		var  c: integer;
+		begin  
+			
+		   while true do begin return; end
+		   c:=1.2;
+		end
+		

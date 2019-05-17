@@ -1,0 +1,9 @@
+
+            procedure main();
+            begin
+                putFloatLn(10.0);
+                putFloatLn(1e3);
+                putFloatLn(1e-3);
+                putFloat(1.e-3);
+            end
+        

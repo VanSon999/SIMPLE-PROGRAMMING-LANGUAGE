@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x),IntType),VarDecl(Id(e),ArrayType(3,4,StringType)),VarDecl(Id(t),ArrayType(3,4,StringType)),VarDecl(Id(r),ArrayType(3,4,StringType)),VarDecl(Id(w),ArrayType(3,4,StringType))])

@@ -1,0 +1,28 @@
+var a:integer;
+                function foo(a, b:integer):integer; 
+                begin 
+	                if (a > b) then a := 1 + b;
+	                else a := b + 2;
+	                return a;
+                end
+                function foo1(a:integer):integer;
+                var b, c, deg:integer;
+                begin 
+	                b := 2;
+	                c := 3;
+	                if (a > b) then deg := a + c;
+	                else deg := b + foo2(1);
+	                return deg;
+                end
+                var b:integer;
+                function foo2(art:integer):integer;
+                begin 
+	                while (art > 5) do art := art + 1;
+	                    return art;
+                end
+                procedure main(); 
+                begin 
+	                a := foo(foo1(1),foo2(2));
+	                funy98(4);
+	                return ;
+                end

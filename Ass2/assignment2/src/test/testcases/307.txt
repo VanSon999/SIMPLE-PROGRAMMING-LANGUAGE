@@ -1,0 +1,1 @@
+var t: arraY [-1 .. 3] of sTring;

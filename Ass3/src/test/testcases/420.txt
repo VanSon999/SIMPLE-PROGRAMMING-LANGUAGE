@@ -1,0 +1,6 @@
+function fo():integer; begin  return 1; end
+                function fo1():integer; begin  return 9.5; end
+                procedure main(); 
+                begin 
+                    return ;
+                end

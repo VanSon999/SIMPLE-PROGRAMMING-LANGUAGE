@@ -1,0 +1,13 @@
+
+		function main1():real ;
+		var putint: integer;
+		begin
+			if 1=2 then return 1;
+			else putint:=1;
+		end
+		procedure main() ;
+		var putint: real;
+		begin
+			if true then putint:=main1();
+		end
+		

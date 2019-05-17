@@ -1,0 +1,12 @@
+5
+5.0
+false
+5
+5.0
+false
+10
+10.0
+true
+5
+5.0
+false

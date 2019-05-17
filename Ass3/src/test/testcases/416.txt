@@ -1,0 +1,21 @@
+var art:integer;
+                procedure funcA();
+                var buy:integer; 
+                begin 
+	                art := 7;
+	                buy := art;
+                end
+                function sum(b:integer):integer; 
+                var der:integer;
+                begin 
+	                der := 7;
+	                return art + b + der;
+                end
+                procedure main(); 
+                var m:array[1 .. 10] of integer;
+                begin 
+	                m[9] := sum(6);
+	                funcA();
+	                art := 9 + n[1];
+	                return ;
+                end

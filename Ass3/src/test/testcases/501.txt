@@ -1,0 +1,24 @@
+
+				function call1(i:integer): array[1 .. -4] of real;
+				var a: array[1 .. -4] of real;
+				begin
+					return a;
+				end
+				procedure gt(x:boolean);
+				begin
+					if call1(1)[2] <> 2 then
+					begin
+						if((call1(1)[1] = 2) and x) then 
+							while(call1(1)[1] >= 2 and then call1(1)[2] <= 3) do
+							beGin
+								with a,b:string; do
+									break;
+							end
+					eND
+				end
+				procedure main();
+				begin
+					gt(True);
+					gt();
+				end
+				

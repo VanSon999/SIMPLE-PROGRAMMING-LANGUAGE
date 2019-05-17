@@ -1,0 +1,45 @@
+    def test_function16(self):
+        input = """function avr(i: integer): real;
+                begin
+                a:= b:= 10;
+                if(a(3) = 2) then a:= a + b;
+                a[a+3 = 2 + 2;
+                end
+                """
+        expect = "Error on line 5 col 29: ;"
+        self.assertTrue(TestParser.test(input,expect,217))
+
+    def test_function17(self):
+        input = """function avr(i: integer): real;
+                begin
+                a:= b:= 10;
+                if(a(3) = 2, a = 3*b) then a:= a + b;
+                a[a+3 = 2 + 2;
+                end
+                """
+        expect = "Error on line 4 col 27: ,"
+        self.assertTrue(TestParser.test(input,expect,218))
+
+    def test_vardec3(self):
+        """test var declaration"""
+        input = """var _aa111= array [] of integer;"""
+        expect = "Error on line 1 col 10: ="
+        self.assertTrue(TestParser.test(input, expect, 242))
+
+    def test_vardec4(self):
+        """test var declaration"""
+        input = """var _a1: array; bbb: integer; a= 6-3;"""
+        expect = "Error on line 1 col 14: ;"
+        self.assertTrue(TestParser.test(input, expect, 243))
+
+    def test_vardec5(self):
+        """test var declaration"""
+        input = """var _a1: StriNG; b_1EWW, aCM_001: BoOLeaN;"""
+        expect = "successful"
+        self.assertTrue(TestParser.test(input, expect, 244))
+
+    def test_vardec6(self):
+        """test var declaration"""
+        input = """var _a1: StriNG*); (*b_1EWW, aCM_001: BoOLeaN;"""
+        expect = "Error on line 1 col 15: *"
+        self.assertTrue(TestParser.test(input, expect, 245))

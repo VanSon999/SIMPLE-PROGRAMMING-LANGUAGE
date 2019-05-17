@@ -1,0 +1,4 @@
+procedure main(a,v: integer);
+                var x,y: String;
+                begin
+                end

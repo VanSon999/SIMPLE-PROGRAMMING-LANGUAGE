@@ -1,0 +1,16 @@
+
+				procedure main();
+				var a,i:integer;
+				abcd : array[1 .. 100] of real;
+				Begin
+					
+					while(a>0)do
+					begin
+					   
+						if i = abcd[1] then 
+						continue;
+						else break;
+					end
+					return "a";
+				end
+				

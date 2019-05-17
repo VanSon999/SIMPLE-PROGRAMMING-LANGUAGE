@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := - (True);
+                end

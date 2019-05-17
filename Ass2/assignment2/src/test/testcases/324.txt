@@ -1,0 +1,3 @@
+function my_name_no(): arraY [-9 .. 7] of integer;
+                begin
+                end

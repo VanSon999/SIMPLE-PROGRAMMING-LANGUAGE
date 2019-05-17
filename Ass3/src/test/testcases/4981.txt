@@ -1,0 +1,10 @@
+
+				procedure main();
+				var c:integer;
+				Begin
+					if a> 0 then
+					c:=1.4;
+				   
+				end
+								
+			

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType(),[],[With([VarDecl(Id(a),IntType)],[AssignStmt(Id(hello),Id(may_con_quy))])])])

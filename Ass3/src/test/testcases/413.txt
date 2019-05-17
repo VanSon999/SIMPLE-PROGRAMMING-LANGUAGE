@@ -1,0 +1,10 @@
+var art, big:integer;
+                var d: real;
+                procedure mr(); var n:integer; begin end 
+                procedure nt(); var c:integer; begin end
+                function  cy(a,b:integer):real; begin return 10; end
+                procedure d(); begin end
+                procedure main(); begin 
+	                mr();nt();cy(1,2);d();
+	                return ;
+                end

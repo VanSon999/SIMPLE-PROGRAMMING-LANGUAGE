@@ -1,0 +1,29 @@
+
+        var ast ,byz, ctx: real; out:boolean;
+		function foo(ctx:real): real;
+        begin 
+            if ctx < 0 then return 1.2; 
+            else return 1.3; 
+        end
+
+        procedure main();
+		begin 
+            ctx:=0;
+            while true do 
+            begin 
+            ctx:=3;   
+            if ctx=3 then break; 
+            else continue;
+            end
+
+            if ctx<>3 then 
+            begin 
+            end
+            else 
+            while ctx=3 do 
+            begin 
+                putfloat(ctx);
+                ctx:=ctx-1; 
+                break; 
+            end
+        end

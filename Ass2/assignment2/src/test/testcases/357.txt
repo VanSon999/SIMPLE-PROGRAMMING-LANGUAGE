@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A := 4.22 >= 3 + 4 * 5 and not 2;
+                end

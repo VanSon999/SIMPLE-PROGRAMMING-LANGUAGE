@@ -1,0 +1,23 @@
+
+            procedure main();
+            var i,j: integer;
+            begin 
+                for i := 1 to 100000 do 
+                begin
+                    for j := 10000 downto 1 do
+                        with i: integer; do
+                        begin    
+                            i := 1;
+                            if j = 9999 then
+                                break;
+                        end
+                    if i < 99995 then 
+                        continue;
+                    else 
+                    begin
+                        putFloatLn(i);
+                        break;
+                    end
+                end
+            end
+        

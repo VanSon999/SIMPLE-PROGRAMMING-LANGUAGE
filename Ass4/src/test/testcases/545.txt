@@ -1,0 +1,24 @@
+
+            procedure main();
+            var x: integer;
+            begin
+                y := 20;
+                PuTFloatLN(y);
+                with y: real; do 
+                begin 
+                    y := 10;
+                    PuTFloatLN(y);
+                    with y: real; do
+                    begin
+                        y := 15;
+                        PuTFloatLN(y);
+                    end
+                    if y = 15 then 
+                        PuTFloatLN(15);
+                    else 
+                        PuTFloatLN(y);
+                end
+                PuTFloatLN(y);
+            end
+            var x,y,z : real;
+        

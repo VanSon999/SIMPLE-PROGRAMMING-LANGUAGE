@@ -1,0 +1,4 @@
+procedure main();
+                begin
+                    A:= call(3,call(3,call(3,call(3))));
+                end

@@ -1,0 +1,12 @@
+procedure main();
+		begin
+			while (9>8) do begin
+				if 6>7 then
+				begin
+					with art:integer; do begin
+						continue;
+					end
+				end
+			end
+			break;
+		end

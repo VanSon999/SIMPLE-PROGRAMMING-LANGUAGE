@@ -1,0 +1,11 @@
+
+            function too():real;
+            var ier:integer;
+            begin
+                for ier:=1 to ier do 
+                    begin
+                        for ier:=1 to ier do
+                            break;
+                    end
+                    return 0;
+            end

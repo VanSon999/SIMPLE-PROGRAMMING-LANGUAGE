@@ -1,0 +1,9 @@
+
+		procedure foo();begin return ; end
+		procedure main() ;
+		 var a:real;
+		 a:real;
+		begin
+			with a: real; do putint(1); foo();
+		end
+		

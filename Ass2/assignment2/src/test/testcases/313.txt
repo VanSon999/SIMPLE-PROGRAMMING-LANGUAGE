@@ -1,0 +1,1 @@
+var x,t: arrAy [-2 .. -5] of string;

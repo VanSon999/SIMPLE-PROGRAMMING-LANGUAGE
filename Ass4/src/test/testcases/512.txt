@@ -1,0 +1,6 @@
+
+            procedure main();
+            begin
+                putInt(100 - 1 * 12);
+            end
+        

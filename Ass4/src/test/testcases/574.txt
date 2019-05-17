@@ -1,0 +1,8 @@
+
+            procedure main();
+            var x: integer; y: real; z : boolean; 
+            begin 
+                putBoolLn( not true and not false);
+                putBoolLn( not (12/5=9) and (4 = 4));
+            end
+        

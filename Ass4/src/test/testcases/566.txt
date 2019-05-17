@@ -1,0 +1,11 @@
+
+        function tong(aet,biy:integer):integer;
+        begin
+            return aet + biy;
+        end
+
+        procedure main();
+        begin
+            putInt(tong(1,10) - tong(10,1));
+        end
+        

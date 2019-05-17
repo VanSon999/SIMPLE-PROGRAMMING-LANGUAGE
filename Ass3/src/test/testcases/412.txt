@@ -1,0 +1,6 @@
+var  tes,b,ced:integer;
+                var der,b:integer;
+                procedure main(); 
+                begin
+	                return;
+                end

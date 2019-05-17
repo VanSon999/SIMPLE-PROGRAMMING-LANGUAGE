@@ -1,0 +1,17 @@
+
+        var ctx: integer;
+        procedure main(); 
+        var iy:integer;
+        begin 
+            iy:=1; 
+            ctx:=0;
+            for iy:= ctx + 1 to 3 do 
+            begin 
+                putint(iy);
+            end
+
+            for iy:=3 downto ctx +1 do 
+            begin 
+                putint(iy);
+            end
+        end
